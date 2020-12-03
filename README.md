@@ -18,7 +18,7 @@ Get the latest [Helm release](https://helm.sh/docs/intro/install/).
 To install the `security-sample-chart` chart with the release name `security-sample-chart`:
 
 ```console
-helm upgrade --install security-sample-chart center/rimusz-lab-gh/security-sample-chart
+helm upgrade --install security-sample-chart center/gh-rimusz-lab/security-sample-chart
 ```
 
 Check `security-sample-chart` chart [readme](security-sample-chart/README.md) for more customization options.
