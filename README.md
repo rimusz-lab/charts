@@ -1,4 +1,4 @@
-# The Rimusz [Helm](https://helm.sh) Charts repository for demo purposes with ChartCenter.io
+# The Rimusz-lab [Helm](https://helm.sh) Charts repository for demo purposes with ChartCenter.io
 
 ## Getting Started
 
