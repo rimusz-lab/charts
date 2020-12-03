@@ -1,0 +1,10 @@
+.DS_Store
+sshkeys
+.DS_Store
+tmp/
+
+# Packed Charts
+temp
+
+# Chart dependencies
+**/charts/*.tgz
